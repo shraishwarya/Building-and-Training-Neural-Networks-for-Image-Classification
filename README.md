@@ -1,4 +1,4 @@
-f# 🧠 Building and Training Neural Networks for Image Classification
+# 🧠 Building and Training Neural Networks for Image Classification
 
 This repository demonstrates how to **build, train, and evaluate neural networks** for solving image classification tasks. The project walks through dataset preprocessing, neural network architecture design, model training, and performance evaluation.
 
